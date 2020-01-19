@@ -36,7 +36,6 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.util.NonNullList;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.math.MathHelper;
-import net.minecraft.util.text.TextComponentString;
 import net.minecraft.util.text.TextComponentTranslation;
 import net.minecraft.util.text.TextFormatting;
 import org.lwjgl.input.Keyboard;
@@ -183,7 +182,6 @@ public class GuiContainerCreative extends InventoryEffectRenderer
                         ItemStack itemstack9 = slotIn.getStack().copy();
                         itemstack9.func_190920_e(itemstack9.getMaxStackSize());
                         inventoryplayer.setItemStack(itemstack9);
-                        inventoryplayer.player.addChatMessage(new TextComponentString("hello acyco"));
                     }
 
                     return;
