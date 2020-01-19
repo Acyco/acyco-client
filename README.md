@@ -1,6 +1,77 @@
-# Acyco Minecraft Client 
+# Acyco Minecraft Client （IDEA）
  
- - 解压mcp
- - 新建文件夹
+ - 解压mcp 
  
- ![new path](./picture/1.png)
+ - 修改配置文件的版本。
+ 
+ ![modify config version](./picture/2.png)
+ 
+ - 解压覆盖。
+ 
+ ![Unzip coverage](./picture/3.png)
+ 
+ - 点击decompile.bat(windows) /decompile.sh
+ 
+ ![decompile](./picture/4.png)
+ 
+ - 新建文件夹intellij 
+  
+  ![new folder](./picture/1.png)
+ 
+ - 新建项目1
+
+  ![new project](./picture/5.png)
+  
+  ![new project2](./picture/6.png)
+  
+  ![new project3](./picture/7.png)
+  
+ - 复制对应的源码 
+ 
+  ![copy source code](./picture/8.png)
+  
+ - 复制libraries
+ 
+  ![copy libraties](./picture/9.png)
+  
+ - 新建run工作文件夹
+ 
+  ![new run folder](./picture/10.png)
+  
+ - 把对应的一些复制到run目录 游戏运行要用到
+ 
+  ![copy someing](./picture/11.png)
+ 
+ - 在build.gradle 文件加入依赖库 -> libraries
+ 
+  ![gradle config add lib](./picture/12.png)
+  
+  
+  - 复制本地库 这个不做后面会报错 
+  
+  ![copy native lib](./picture/17.png)  
+ 
+ - add configurations 
+ 
+  ![add configurations](./picture/12.png)
+  
+  ![add configurations](./picture/13.png)
+  
+  ![add configurations](./picture/14.png)
+  
+  ![add configurations](./picture/15.png)
+  
+  ![add configurations](./picture/16.png)
+  
+ - start 启动(如果步骤没错，正常情况是可以启动。。)
+
+  ![start](./picture/18.png)
+  
+  
+  
+ 
+ 
+  
+ 
+  
+ 
