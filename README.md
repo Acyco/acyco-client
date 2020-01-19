@@ -51,9 +51,7 @@
   
   ![copy native lib](./picture/17.png)  
  
- - add configurations 
- 
-  ![add configurations](./picture/12.png)
+ - add configurations
   
   ![add configurations](./picture/13.png)
   
