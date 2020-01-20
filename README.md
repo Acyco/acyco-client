@@ -57,13 +57,32 @@
   
   ![add configurations](./picture/14.png)
   
-  ![add configurations](./picture/15.png)
+
   
   ![add configurations](./picture/16.png)
   
  - start 启动(如果步骤没错，正常情况是可以启动。。)
 
   ![start](./picture/18.png)
+  
+ - 下面是构建并打包到官启运行
+ 
+  ![build](./picture/19.png)
+  
+  ![build](./picture/20.png)
+  
+  ![build](./picture/21.png)
+  
+  ![build](./picture/25.png)
+  
+  ![build](./picture/22.png)
+  
+  ![build](./picture/23.png)
+ 
+  ![build](./picture/24.png)
+ 
+  ![build](./picture/26.png)
+
   
   
   
